@@ -1,4 +1,4 @@
-baseURL = "https://github.com/hosseinadib-hub"
+baseURL = "https://github.com/"
 title = "Hossein Adib Profile"
 
 # prevent build failures when using Hugo's Instagram shortcode due to deprecated
