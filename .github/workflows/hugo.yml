@@ -55,6 +55,7 @@ jobs:
           HUGO_ENV: production
         run: |
           hugo \
+            -t hugo-theme-ghci \
             --minify \
             --baseURL "${{ site.baseurl }}/"
       - name: Upload artifact
